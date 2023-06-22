@@ -25,7 +25,7 @@ Note: The first setting is the only workable solution found for now for "Proxy B
 
 3. Download all the dependencies:
 ```
-cd t2office-react
+cd task-manager
 npm install
 ```
 **In case of "vulnerabilities" in npm install output**, reference to this Stackoverflow [link](https://stackoverflow.com/questions/67693423/npm-audit-fix-force-react-script-downgrade-automatically) we may do: `npm audit --production`.
