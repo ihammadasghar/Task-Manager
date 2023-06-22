@@ -1,0 +1,17 @@
+# dependencies
+/node_modules
+
+# production
+/build
+
+# Optional npm cache directory
+.npm
+
+# dotenv environment variables file
+.env
+
+.cache
+
+# Local
+.vscode/
+local/
