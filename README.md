@@ -1,5 +1,5 @@
 # Task-Manager
-Task management web app
+Originaly developed to be integrated with an existing API of a secondary school. This is the edited version for showcase my work. The original is available on their website http://alibadschool.com/
 
 ### Developers Guideline
 -  Always create new work in a new branch.
